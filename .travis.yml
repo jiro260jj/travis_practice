@@ -2,4 +2,4 @@ language: python
 python:
     - 3.6
 script:
-    - python tests/test_sample.py
+    - python test_sample.py
